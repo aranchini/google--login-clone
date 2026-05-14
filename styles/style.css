@@ -1,0 +1,18 @@
+#login{background: pink;}
+#login h1{}
+#login h1 img{}
+#login h2{}
+#login #login_form{}
+#login #login_form fieldset{}
+#login #login_form fieldset ul{}
+#login #login_form fieldset ul li{}
+#login #login_form fieldset ul li input[name=user_id]{}
+#login #login_form fieldset ul li a {}
+#login #login_form fieldset .finish {}
+#login #login_form fieldset .finish .join {}
+#login #login_form fieldset .finish  #next_btn{}
+#login #login_footer {}
+#login #login_footer #lang_select{}
+#login #login_footer #lang_select option{}
+#login #login_footer .right{}
+#login #login_footer .right a{}
